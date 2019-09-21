@@ -61,7 +61,7 @@ var lupengTheme = {
         ul: {
             'margin-left': '0',
             'padding-left': '20px',
-            'list-style': 'circle',
+            'list-style': 'square',
         },
         footnotes: {
             'margin': '10px 10px',
@@ -85,13 +85,14 @@ var lupengTheme = {
             'border-radius': '3px',
         },
         link: {
-            'color': '#ff3502'
+            'color': '#007aaa'
         },
         wx_link: {
             'color': '#576b95',
             'text-decoration': 'none'
         },
         strong: {
+            'color': '#007aaa',
             'font-weight': 'bold',
         },
         table: {
