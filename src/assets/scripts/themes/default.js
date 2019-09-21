@@ -59,7 +59,7 @@ var defaultTheme = {
     ul: {
       'margin-left': '0',
       'padding-left': '20px',
-      'list-style': 'circle',
+      'list-style': 'square',
     },
     footnotes: {
       'margin': '10px 10px',
@@ -76,16 +76,16 @@ var defaultTheme = {
     codespan: {
       'font-size': '90%',
       // 'font-family': FONT_FAMILY_MONO,
-      'color': '#ff3502',
+      'color': '#007aaa',
       'background': '#f8f5ec',
       'padding': '3px 5px',
       'border-radius': '2px',
     },
     link: {
-      'color': '#ff3502'
+      'color': '#007aaa'
     },
     strong: {
-      'color': '#ff3502'
+      'color': '#007aaa'
     },
     table: {
       'border-collapse': 'collapse',
